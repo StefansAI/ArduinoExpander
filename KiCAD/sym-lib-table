@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Arduino Shield")(type "KiCad")(uri "C:/Users/stefa/OneDrive/Documents/KiCad/8.0/symbols/arduino-library.kicad_sym")(options "")(descr ""))
+)
